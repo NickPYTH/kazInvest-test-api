@@ -53,7 +53,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
-    'http://83.222.9.213:8998'
+    'http://83.222.9.213:9001'
 ]
 
 ROOT_URLCONF = "kazInvesttestapi.urls"
